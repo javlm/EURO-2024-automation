@@ -1,0 +1,23 @@
+{
+  "name": "x-soccer-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.14.2",
+    "@types/node-fetch": "^2.6.11",
+    "@types/twitter": "^1.7.4",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2",
+    "ts-node": "^10.9.2",
+    "twitter": "^1.7.1",
+    "typescript": "^5.4.5"
+  }
+}
